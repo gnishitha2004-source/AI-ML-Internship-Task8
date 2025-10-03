@@ -81,7 +81,3 @@ Methods: Elbow Method, Silhouette Score, Gap Statistics, or domain knowledge.
 **8. Difference between clustering and classification?**  
 - **Clustering**: Unsupervised, groups unlabeled data.  
 - **Classification**: Supervised, assigns predefined labels.  
-
----
-
-## 📁 Repository Structure
